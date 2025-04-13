@@ -2,17 +2,17 @@
 
 ## Categories
 
-- Account and Access Issues
-- Printing Issues
-- Network and Connectivity
-- Email and Communication
-- Hardware Support
-- Software Troubleshooting
-- Remote Support
+- [Account and Access Issues](#account-and-access-issues)
+- [Printing Issues](#printing-issues)
+- [Network and Connectivity](#network-and-connectivity)
+- [Email and Communication](#email-and-communication)
+- [Hardware Support](#hardware-support)
+- [Software Troubleshooting](#software-troubleshooting)
+- [Remote Support](#remote-support)
 
 ## Account and Access Issues
 
-1. How to reset a forgotten Windows password
+1. **How to reset a forgotten Windows password**
     - Open the user account management tool (Active Directory Users and Computers).
     - Locate the user account via search.
     - Right-click the account ---> Select Reset Password.
@@ -20,7 +20,7 @@
     - Check the box for "User must change password at next logon" (optional).
     - Click OK and notify the user.
 
-2. Unlock a locked-out account
+2. **Unlock a locked-out account**
    - Open Active Directory Users and Computers.
    - Search for the locked-out user account.
    - Right-click and select Properties
@@ -69,9 +69,11 @@
    - Update or reinstall display drivers via Device Manager.
    - Test with another monitor or cable to rule out hardware failure.
   
+## Software Troubleshooting
+  
 ## Remote Support
 
-7. Connecting to a Remote User with TeamViewer
+7. **Connecting to a Remote User with TeamViewer**
    
    - Ask the user to open TeamViewer and read their ID and Password.
    - On your device, open TeamViewer and enter the remote ID.
