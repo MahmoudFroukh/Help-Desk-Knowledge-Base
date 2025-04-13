@@ -3,8 +3,8 @@
 ## Categories
 
 - [🔐 Account and Access Issues](#-account-and-access-issues)
-- [Printing Issues](#printing-issues)
-- [Network and Connectivity](#network-and-connectivity)
+- [🖨️ Printing Issues](#-printing-issues)
+- [🛜 Network and Connectivity](#-network-and-connectivity)
 - [Email and Communication](#email-and-communication)
 - [Hardware Support](#hardware-support)
 - [Software Troubleshooting](#software-troubleshooting)
@@ -28,7 +28,7 @@
    - Uncheck Account is locked out, then click OK.
    - Inform the user that the account is now accessible.
 
-## Printing Issues
+## 🖨️ Printing Issues
 
 3. **Printer Not Responding**
    
@@ -39,7 +39,7 @@
    - Clear print queue: Open Services ---> Restart the Print Spooler.
    - Try a test print.
   
-## Network and Connectivity
+## 🛜 Network and Connectivity
 
 4. **No Internet Access**
    
