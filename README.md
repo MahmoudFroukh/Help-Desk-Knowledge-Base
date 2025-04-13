@@ -30,7 +30,7 @@
 
 ## Printing Issues
 
-3. Printer Not Responding
+3. **Printer Not Responding**
    
    - Check if the printer is powered on and connected to the network.
    - Verify cables and Wi-Fi connection.
@@ -41,7 +41,7 @@
   
 ## Network and Connectivity
 
-4. No Internet Access
+4. **No Internet Access**
    
    - Ask the user to check the physical connection or Wi-Fi icon.
    - Run ipconfig /release and ipconfig /renew in Command Prompt.
@@ -72,6 +72,7 @@
 ## Software Troubleshooting
 
 7. **Application Not Responding or Crashing**
+   
    - Ask the user to close the application completely using the task manager.
    - Reopen the application and check for behavior.
    - If it crashes again, check for updates via the app's Help or Settings menu.
