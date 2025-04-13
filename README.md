@@ -1,4 +1,4 @@
-# Help-Desk-Knowledge-Base
+# Help Desk Knowledge Base
 
 ## Categories
 
