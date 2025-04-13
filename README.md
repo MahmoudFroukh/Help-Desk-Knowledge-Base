@@ -2,7 +2,7 @@
 
 ## Categories
 
-- [Account and Access Issues](#account-and-access-issues)
+- [🔐 Account and Access Issues](#-account-and-access-issues)
 - [Printing Issues](#printing-issues)
 - [Network and Connectivity](#network-and-connectivity)
 - [Email and Communication](#email-and-communication)
@@ -10,7 +10,7 @@
 - [Software Troubleshooting](#software-troubleshooting)
 - [Remote Support](#remote-support)
 
-## Account and Access Issues
+## 🔐 Account and Access Issues
 
 1. **How to reset a forgotten Windows password**
     - Open the user account management tool (Active Directory Users and Computers).
