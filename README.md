@@ -51,7 +51,7 @@
   
 ## Email and Communication
 
-5. Outlook Won't Open/Crashes
+5. **Outlook Won't Open/Crashes**
    
    - Close Outlook
    - Open Run box ---> type: outlook.exe /safe
@@ -62,7 +62,7 @@
   
 ## Hardware Support
 
-6. External Monitor Not Working
+6. **External Monitor Not Working**
    
    - Check cable connections (HDMI, VGA, DisplayPort).
    - Press Windows + P and choose the correct display mode (Duplicate/Extend).
@@ -70,10 +70,17 @@
    - Test with another monitor or cable to rule out hardware failure.
   
 ## Software Troubleshooting
+
+7. **Application Not Responding or Crashing**
+   - Ask the user to close the application completely using the task manager.
+   - Reopen the application and check for behavior.
+   - If it crashes again, check for updates via the app's Help or Settings menu.
+   - If updates fail, uninstall and reinstall the application.
+   - Check system logs (Event Viewer) for recurring errors related to the app.
   
 ## Remote Support
 
-7. **Connecting to a Remote User with TeamViewer**
+8. **Connecting to a Remote User with TeamViewer**
    
    - Ask the user to open TeamViewer and read their ID and Password.
    - On your device, open TeamViewer and enter the remote ID.
