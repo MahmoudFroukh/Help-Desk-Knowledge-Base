@@ -1,6 +1,6 @@
 # Help Desk Knowledge Base
 
-## Categories
+## Table of Contents
 
 - [🔐 Account and Access Issues](#-account-and-access-issues)
 - [🖨️ Printing Issues](#-printing-issues)
