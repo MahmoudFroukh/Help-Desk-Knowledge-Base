@@ -88,3 +88,6 @@
    - Click Connect, then enter the provided password.
    - Once connected, take control and begin troubleshooting
    - Log actions taken in the support ticket system.
+
+
+[Back to Top](#help-desk-knowledge-base)
