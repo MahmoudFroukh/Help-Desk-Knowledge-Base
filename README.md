@@ -5,10 +5,10 @@
 - [🔐 Account and Access Issues](#-account-and-access-issues)
 - [🖨️ Printing Issues](#-printing-issues)
 - [🛜 Network and Connectivity](#-network-and-connectivity)
-- [📧Email and Communication](#-email-and-communication)
-- [⚙️Hardware Support](#-hardware-support)
-- [💻Software Troubleshooting](#-software-troubleshooting)
-- [☎️Remote Support](#-remote-support)
+- [📧 Email and Communication](#-email-and-communication)
+- [⚙️ Hardware Support](#-hardware-support)
+- [💻 Software Troubleshooting](#-software-troubleshooting)
+- [☎️ Remote Support](#-remote-support)
 
 ## 🔐 Account and Access Issues
 
