@@ -79,7 +79,7 @@
    - If updates fail, uninstall and reinstall the application.
    - Check system logs (Event Viewer) for recurring errors related to the app.
   
-##   Remote Support
+## ☎️ Remote Support
 
 8. **Connecting to a Remote User with TeamViewer**
    
