@@ -60,7 +60,7 @@
    - Restart Outlook normally.
    - If the issue persists, repair Outlook via Control Panel ---> Programs ---> Office ---> Change ---> Repair.
   
-## ⚙️Hardware Support
+## ⚙️ Hardware Support
 
 6. **External Monitor Not Working**
    
@@ -69,7 +69,7 @@
    - Update or reinstall display drivers via Device Manager.
    - Test with another monitor or cable to rule out hardware failure.
   
-## 💻Software Troubleshooting
+## 💻 Software Troubleshooting
 
 7. **Application Not Responding or Crashing**
    
@@ -79,7 +79,7 @@
    - If updates fail, uninstall and reinstall the application.
    - Check system logs (Event Viewer) for recurring errors related to the app.
   
-## 📱☎️Remote Support
+##   Remote Support
 
 8. **Connecting to a Remote User with TeamViewer**
    
